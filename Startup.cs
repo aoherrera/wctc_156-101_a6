@@ -1,8 +1,8 @@
 ﻿using System;
-using ApplicationTemplate.Services;
+using Herrera_A6.Services;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace ApplicationTemplate;
+namespace Herrera_A6;
 
 /// <summary>
 ///     Used for registration of new interfaces

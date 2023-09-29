@@ -778,9 +778,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A6/wctc_156-101_a6/ApplicationTemplate.csproj",
-      "projectName": "ApplicationTemplate",
-      "projectPath": "/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A6/wctc_156-101_a6/ApplicationTemplate.csproj",
+      "projectUniqueName": "/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A6/wctc_156-101_a6/Herrera_A6.csproj",
+      "projectName": "Herrera_A6",
+      "projectPath": "/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A6/wctc_156-101_a6/Herrera_A6.csproj",
       "packagesPath": "/Users/soonerale/.nuget/packages/",
       "outputPath": "/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A6/wctc_156-101_a6/obj/",
       "projectStyle": "PackageReference",

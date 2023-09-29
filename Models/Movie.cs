@@ -1,5 +1,5 @@
 ﻿using System;
-namespace ApplicationTemplate.Models
+namespace Herrera_A6.Models
 {
 	public class Movie : Media
 	{

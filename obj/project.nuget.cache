@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "duTTYbhdv2IWw8tTCJr0XE8xx/efovhRe/cZ5N7BdkvbzBhpLUA2tMIbetJazHrPzOZtdNKkSlOQyBpW7g4xsA==",
+  "dgSpecHash": "A/htdxjzofaBS3usoHUN3OlVfjE8wAsEsuRom7lydNSX+8w0h6zbfGtf9Hakzzi9b97YbF3UFQNAm9nnCfMtyg==",
   "success": true,
-  "projectFilePath": "/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A6/wctc_156-101_a6/ApplicationTemplate.csproj",
+  "projectFilePath": "/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A6/wctc_156-101_a6/Herrera_A6.csproj",
   "expectedPackageFiles": [
     "/Users/soonerale/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "/Users/soonerale/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

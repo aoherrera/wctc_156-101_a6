@@ -1,4 +1,4 @@
-﻿namespace ApplicationTemplate.Services;
+﻿namespace Herrera_A6.Services;
 
 /// <summary>
 ///     This service interface only exists an example.

@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.Extensions.Logging;
 
-namespace ApplicationTemplate.Services;
+namespace Herrera_A6.Services;
 
 /// <summary>
 ///     This concrete service and method only exists an example.
