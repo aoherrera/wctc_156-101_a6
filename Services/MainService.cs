@@ -19,23 +19,29 @@ public class MainService : IMainService
         string choice;
         do
         {
-            Console.WriteLine("1) Add Movie");
-            Console.WriteLine("2) Display All Movies");
-            Console.WriteLine("X) Quit");
+            Console.WriteLine("What media type would you like to display?");
+            Console.WriteLine("\n1.) Movies\n2.) Shows\n3.) Videos\n4.) Exit\n");
             choice = Console.ReadLine();
 
-            // Logic would need to exist to validate inputs and data prior to writing to the file
-            // You would need to decide where this logic would reside.
-            // Is it part of the FileService or some other service?
             if (choice == "1")
-            {
-                _fileService.Write();
-            }
+                choice = "Movie";
+
+
             else if (choice == "2")
-            {
-                _fileService.Read();
-            }
+                choice = "Show";
+
+
+            else if (choice == "3")
+                choice = "Video";
+
+            else if (choice == "4")
+                break;
+            else
+                Console.WriteLine("Please enter a valid selection.\n");
+
+            _fileService.Read(choice);
         }
-        while (choice != "X");
+        while (choice != "4");
+
     }
 }

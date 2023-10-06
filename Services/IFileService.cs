@@ -6,6 +6,5 @@
 /// </summary>
 public interface IFileService
 {
-    void Read();
-    void Write();
+    void Read(string mediaType);
 }

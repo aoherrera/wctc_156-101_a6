@@ -8,7 +8,7 @@ namespace Herrera_A6.Models
 
 		public Media() { }
 
-		public abstract void Display();
+		public abstract void Display(string filename);
 	}
 }
 
